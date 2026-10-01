@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#11100F"/>
+  <text x="50%" y="58%" dominant-baseline="middle" text-anchor="middle" font-family="'Playfair Display', serif, sans-serif" font-size="55" font-weight="600" fill="#E9E3D8">N</text>
+  <circle cx="80" cy="20" r="5" fill="#B35D38" />
+</svg>
